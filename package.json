@@ -1,0 +1,28 @@
+{
+  "name": "firebase-admin-initialized",
+  "version": "0.0.1",
+  "description": "Firebase admin instance initialized",
+  "main": "admin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "firebase-admin": ">=8.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nexxtway/firebase-admin.git"
+  },
+  "keywords": [
+    "firebase",
+    "admin",
+    "instance",
+    "initialized"
+  ],
+  "author": "Nexxtway",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nexxtway/firebase-admin/issues"
+  },
+  "homepage": "https://github.com/nexxtway/firebase-admin#readme"
+}
